@@ -5,10 +5,15 @@ date: "15 April 2016"
 output: html_document
 ---
 
+### Important:
+In order to open the html output of this R markdown file in your browser, please click [on this link](https://htmlpreview.github.io/?https://github.com/HenkMeulendijks/RepData_PeerAssessment1/blob/master/assignment.html)
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning=F)
 ```
 
+### Libraries
 We start off with loading all the necessary libraries
 ```{r load_libraries, message=F, warning=F}
 library(dplyr)
