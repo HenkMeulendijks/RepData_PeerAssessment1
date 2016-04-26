@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ### Important:
-In order to open the html output of this R markdown file in your browser, please click [on this link](https://htmlpreview.github.io/?https://github.com/HenkMeulendijks/RepData_PeerAssessment1/blob/master/assignment.html)
+In order to open the html output of this R markdown file in your browser, please click [on this link](https://htmlpreview.github.io/?https://github.com/HenkMeulendijks/RepData_PeerAssessment1/blob/master/PA1_template.html)
 
 
 
@@ -179,3 +179,4 @@ xyplot(avg~interval | factor(blnweekday), data=myavgstepsperintervalonweekday,
 ```
 
 ![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13-1.png)
+
